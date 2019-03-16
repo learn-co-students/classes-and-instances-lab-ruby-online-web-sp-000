@@ -2,6 +2,6 @@ class Dog
 
 end
 
-annie = Dog.new
-murphy = Dog.new
-mercedes = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
